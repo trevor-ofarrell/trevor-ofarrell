@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Trevor O'Farrell</h1>
 <h3 align="center">I'm a Software/Web Developer from the SF Bay Area</h3>
-<p align="center"><a href="https://trevorofarrell.com">trevorofarrell.com</a></p>
+
+<h3 align="center">Personal Website/Portfolio:</h3>
+<p align="center">
+  <p align="center"><a href="https://trevorofarrell.com">trevorofarrell.com</a></p>
+</p>
 
 <h3 align="center">Live Projects:</h3>
 <p align="center">
