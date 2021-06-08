@@ -13,9 +13,9 @@
 
 - 👨‍💻 All of my projects are available at [trevorofarrell.com](trevorofarrell.com)
 
-- 💬 Ask me about **JavaScript, Next.JS, React, Chess, and Cycling**
+- 💬 Ask me about **JavaScript, React, Next.JS, Chess, and Cycling**
 
-- 📫 How to reach me **trevor@trevorofarrell.com**
+- 📫 Reach me @ **trevor@trevorofarrell.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
