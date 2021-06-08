@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **more about JavaScript, and React.**
 
-- 👨‍💻 All of my projects are available at [trevorofarrell.com](trevorofarrell.com)
+- 👨‍💻 All of my projects are available at [trevorofarrell.com](https://trevorofarrell.com)
 
 - 💬 Ask me about **JavaScript, React, Next.JS, Chess, and Cycling**
 
