@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Trevor O'Farrell</h1>
-<h3 align="center">A Software/Web Developer from the SF Bay Area</h3>
+<h3 align="center">I'm a Software/Web Developer from the SF Bay Area</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trevor-ofarrell&label=Profile%20views&color=0e75b6&style=flat" alt="trevor-ofarrell" /> </p>
 
@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **Chess related projects**
 
-- 🌱 I’m currently learning **More about JavaScript, and React.**
+- 🌱 I’m currently learning **more about JavaScript, and React.**
 
 - 👨‍💻 All of my projects are available at [trevorofarrell.com](trevorofarrell.com)
 
-- 💬 Ask me about **Chess, JavaScript, Next.JS, React**
+- 💬 Ask me about **JavaScript, Next.JS, React, Chess, and Cycling**
 
 - 📫 How to reach me **trevor@trevorofarrell.com**
 
