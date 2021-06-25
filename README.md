@@ -8,9 +8,8 @@
 <h3 align="center">Live Projects:</h3>
 <p align="center">
   <p align="center"><a href="https://pgnbuddy.com">pgnbuddy.com</a></p>
-  <p align="center"><a href="https://lichess-tv-watch-party.vercel.app">Lichess TV Watch Party</a></p>
   <p align="center"><a href="https://fen-to-diagram.vercel.app">fen2diagram.com</a></p>
-
+  <p align="center"><a href="https://lichess-tv-watch-party.vercel.app">Lichess TV Watch Party</a></p>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
