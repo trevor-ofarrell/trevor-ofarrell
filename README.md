@@ -10,6 +10,8 @@
   <p align="center"><a href="https://pgnbuddy.com">pgnbuddy.com</a></p>
   <p align="center"><a href="https://fen-to-diagram.vercel.app">fen2diagram.com</a></p>
   <p align="center"><a href="https://lichess-tv-watch-party.vercel.app">Lichess TV Watch Party</a></p>
+  <p align="center"><a href="https://www.npmjs.com/package/chess-evaluation-bar">NPM package chess-evaluation-bar</a></p>
+
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
