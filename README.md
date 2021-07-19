@@ -12,7 +12,7 @@
   <p align="center"><a href="https://lichess-tv-watch-party.vercel.app">Lichess TV Watch Party</a></p>
   <p align="center"><a href="https://www.npmjs.com/package/chess-evaluation-bar">chess-evaluation-bar (NPM package)</a></p>
   <p align="center"> 
-    <img src="https://github.com/trevor-ofarrell/lichessTV-watch-party/blob/main/client/public/mac.gif" alt="image of my projects on cellphones" width="auto" height="auto">
+    <img src="https://github.com/trevor-ofarrell/nextjs-portfolio/blob/master/public/projects.png" alt="image of my projects on cellphones" width="auto" height="auto">
   </p>
 </p>
 
