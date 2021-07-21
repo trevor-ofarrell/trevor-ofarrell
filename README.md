@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Trevor</h1>
 
-<h3 align="center">Personal Website/Portfolio:</h3>
+<h3 align="center">Personal Website:</h3>
 <p align="center">
   <p align="center"><a href="https://trevorofarrell.com">trevorofarrell.com</a></p>
 </p>
